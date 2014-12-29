@@ -25,4 +25,6 @@ i.fa-video-camera:hover {
 	transform: scale(1.5); 
 }
 
-
+i.fa {
+	padding-bottom: 10px;
+}
