@@ -4,6 +4,7 @@ i.fa-briefcase {
 i.fa-briefcase:hover {
 	color: #464946;
 	transform: scale(1.5); 
+	text-shadow: 1px 1px 3px #C0BFBF;
 }
 
 i.fa-paint-brush {
@@ -12,6 +13,7 @@ i.fa-paint-brush {
 i.fa-paint-brush:hover {
 	color: #464946;
 	transform: scale(1.5); 
+	text-shadow: 1px 1px 3px #C0BFBF;
 }
 
 i.fa-video-camera {
@@ -21,6 +23,7 @@ i.fa-video-camera {
 i.fa-video-camera:hover {
 	color: #464946;
 	transform: scale(1.5); 
+	text-shadow: 1px 1px 3px #C0BFBF;
 }
 
 /* Note that the hover colors above can be manipulated individually. But for now they are all #464946 */
