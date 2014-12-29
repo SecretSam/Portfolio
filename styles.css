@@ -1,25 +1,28 @@
 i.fa-briefcase {
-	transition: color 0.3s ease;
+	transition: all 0.3s ease;
 	color: red;
 }
 i.fa-briefcase:hover {
 	color: green;
+	transform: scale(1.5); 
 }
 
 i.fa-paint-brush {
-	transition: color 0.3s ease;
+	transition: all 0.3s ease;
 	color: #CCCEFE;
 }
 i.fa-paint-brush:hover {
 	color: green;
+	transform: scale(1.5); 
 }
 
 i.fa-video-camera {
-	transition: color 0.3s ease;
+	transition: all 0.3s ease;
 	color: blue;
 }
 i.fa-video-camera:hover {
 	color: green;
+	transform: scale(1.5); 
 }
 
 
