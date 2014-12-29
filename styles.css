@@ -1,0 +1,25 @@
+i.fa-briefcase {
+  transition: background-color 0.3s ease;
+  background-color: red;
+}
+i.fa-briefcase:hover {
+  background-color: green;
+}
+
+i.fa-piant-brush {
+  transition: background-color 0.3s ease;
+  background-color: yellow;
+}
+i.fa-paint-brush:hover {
+  background-color: green;
+}
+
+i.fa-video-camera {
+  transition: background-color 0.3s ease;
+  background-color: blue;
+}
+i.fa-video-camera:hover {
+  background-color: green;
+}
+
+
