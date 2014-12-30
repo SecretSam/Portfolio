@@ -2,18 +2,18 @@ i.fa-briefcase {
 	transition: all 0.3s ease;
 }
 i.fa-briefcase:hover {
-	color: #EEEEEE;
+	color: #333333;
 	transform: scale(1.5); 
-	text-shadow: 1px 1px 3px #333333;
+	text-shadow: 1px 1px 3px #C2C2C2;
 }
 
 i.fa-paint-brush {
 	transition: all 0.3s ease;
 }
 i.fa-paint-brush:hover {
-	color: #EEEEEE;
+	color: #333333;
 	transform: scale(1.5); 
-	text-shadow: 1px 1px 3px #333333;
+	text-shadow: 1px 1px 3px #C2C2C2;
 }
 
 i.fa-video-camera {
@@ -21,12 +21,12 @@ i.fa-video-camera {
 }
 
 i.fa-video-camera:hover {
-	color: #EEEEEE;
+	color: #333333;
 	transform: scale(1.5); 
-	text-shadow: 1px 1px 3px #333333;
+	text-shadow: 1px 1px 3px #C2C2C2;
 }
 
-/* Note that the hover colors above can be manipulated individually. But for now they are all #EEEEEE */
+/* Note that the hover colors above can be manipulated individually. But for now they are all #333333 */
 
 i.fa {
 	padding-bottom: 10px;
