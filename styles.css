@@ -1,3 +1,8 @@
+body {
+	background-size:100% auto;
+	background-image: url("light_honeycomb_@2X.png");
+}
+
 i.fa-briefcase {
 	transition: all 0.3s ease;
 }
