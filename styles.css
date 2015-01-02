@@ -51,6 +51,7 @@ i.fa {
 
 .jumbotron {
 	background: url('https://quietkinetic.files.wordpress.com/2013/06/shutterstock_124714336.jpg');
+	background-size: cover;
 	margin-top: -30px;
 	color: #fff;
 }
