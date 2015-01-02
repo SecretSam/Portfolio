@@ -48,3 +48,9 @@ i.fa {
 .well {
 	margin-top: 20px;
 }
+
+.jumbotron {
+	background: url('https://quietkinetic.files.wordpress.com/2013/06/shutterstock_124714336.jpg');
+	margin-top: -30px;
+	color: #fff;
+}
