@@ -15,18 +15,18 @@ i.fa-briefcase {
 	transition: all 0.3s ease;
 }
 i.fa-briefcase:hover {
-	color: #EEEEEE;
+	color: #D8D59A;
 	transform: scale(1.5); 
-	text-shadow: 1px 1px 3px #C2C2C2;
+	text-shadow: 1px 1px 3px #645F39;
 }
 
 i.fa-paint-brush {
 	transition: all 0.3s ease;
 }
 i.fa-paint-brush:hover {
-	color: #EEEEEE;
+	color: #D8D59A;
 	transform: scale(1.5); 
-	text-shadow: 1px 1px 3px #C2C2C2;
+	text-shadow: 1px 1px 3px #645F39;
 }
 
 i.fa-video-camera {
@@ -34,16 +34,16 @@ i.fa-video-camera {
 }
 
 i.fa-video-camera:hover {
-	color: #EEEEEE;
+	color: #D8D59A;
 	transform: scale(1.5); 
-	text-shadow: 1px 1px 3px #C2C2C2;
+	text-shadow: 1px 1px 3px #645F39;
 }
 
-/* Note that the hover colors above can be manipulated individually. But for now they are all #EEEEEE */
+/* Note that the hover colors and shadows above can be manipulated individually. But for now they are all #D8D59A and #645F39 respectively*/
 
 i.fa {
 	padding-bottom: 10px;
-	color: #D8D59A;
+	color: #EEEEEE;
 }
 
 #wrapper {
@@ -86,7 +86,7 @@ color: #D8D59A;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-color: #fff;
+color: #EEEEEE;
 }
 
 .navbar-default {
@@ -94,4 +94,15 @@ background-color: #322D2D;
 border-color: #3A3434;
 background: url('images/footer_lodyas.png');
 
+}
+
+div.row.text-left h2 {
+    color: #EEEEEE;
+}
+
+div.col-md-4 {
+    color: #EEEEEE;
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: Helvetica;
 }
