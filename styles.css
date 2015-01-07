@@ -39,7 +39,7 @@ i.fa {
 }
 
 #wrapper {
-	background: #e3e3e3;
+	background:  ;
 	padding-top: 25px;
 	padding-bottom: 40px;
 	margin: 0px 40px 30px 40px;
@@ -57,3 +57,14 @@ i.fa {
 	padding-top: 50px;
 	padding-bottom: 10px;
 }
+
+.container-fluid {
+	height: 70px;
+}
+
+
+
+
+
+
+
