@@ -52,18 +52,20 @@ i.fa {
 .jumbotron {
 	background: url('https://quietkinetic.files.wordpress.com/2013/06/shutterstock_124714336.jpg');
 	background-size: cover;
-	margin-top: -30px;
 	color: #fff;
-	padding-top: 50px;
-	padding-bottom: 10px;
+	height: 140px;
+	margin: 0px;
+	padding-top: 150px;
+	padding-bottom: 20px;
 }
 
 .container-fluid {
 	height: 70px;
 }
 
-
-
+.navbar {
+	padding-bottom: 0px;
+}
 
 
 
