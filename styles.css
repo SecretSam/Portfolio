@@ -71,4 +71,11 @@ nav.navbar.navbar-default {
 margin-bottom: 0px;
 }
 
+.navbar-default .navbar-nav>li>a {
+color: #D8D59A;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+color: #F2B701;
+}
 
