@@ -7,7 +7,7 @@ i.fa-briefcase {
 	transition: all 0.3s ease;
 }
 i.fa-briefcase:hover {
-	color: #333333;
+	color: ##D8D59A;
 	transform: scale(1.5); 
 	text-shadow: 1px 1px 3px #C2C2C2;
 }
@@ -16,7 +16,7 @@ i.fa-paint-brush {
 	transition: all 0.3s ease;
 }
 i.fa-paint-brush:hover {
-	color: #333333;
+	color: ##D8D59A;
 	transform: scale(1.5); 
 	text-shadow: 1px 1px 3px #C2C2C2;
 }
@@ -26,12 +26,12 @@ i.fa-video-camera {
 }
 
 i.fa-video-camera:hover {
-	color: #333333;
+	color: ##D8D59A;
 	transform: scale(1.5); 
 	text-shadow: 1px 1px 3px #C2C2C2;
 }
 
-/* Note that the hover colors above can be manipulated individually. But for now they are all #333333 */
+/* Note that the hover colors above can be manipulated individually. But for now they are all ##D8D59A */
 
 i.fa {
 	padding-bottom: 10px;
@@ -39,10 +39,11 @@ i.fa {
 }
 
 #wrapper {
-	background: #e3e3e3;
+	background: #322D2D;
 	padding-top: 25px;
 	padding-bottom: 40px;
 	margin: 0px 40px 30px 40px;
+	background: url('images/footer_lodyas.png');
 }
 
 .well {
