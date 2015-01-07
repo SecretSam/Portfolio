@@ -85,3 +85,25 @@ background-color: #322D2D;
 border-color: #3A3434;
 }
 
+/* JSFiddle Solution for center navbar with bootstrap */
+
+#twitterbootstrap .navbar .nav,
+#twitterbootstrap .navbar .nav > li
+{
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+    *zoom:1; /* hasLayout ie7 trigger */
+    vertical-align: top;
+}
+
+
+#twitterbootstrap .navbar-inner {
+    text-align:center;
+}
+
+.navbar .brand.hidden-desktop{
+    float:none;
+}
+
+/* End of solution */
