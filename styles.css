@@ -65,6 +65,7 @@ i.fa {
 
 .navbar {
 	padding-bottom: 0px;
+	border-radius: 0px;
 }
 
 nav.navbar.navbar-default {
@@ -76,6 +77,11 @@ color: #D8D59A;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-color: #F2B701;
+color: #fff;
+}
+
+.navbar-default {
+background-color: #322D2D;
+border-color: #3A3434;
 }
 
