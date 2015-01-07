@@ -5,10 +5,12 @@ body {
 
 a {
 	color: #D8D59A;
+	font-size: 12pt;
 }
 
 a:hover {
 	color: #EEEEEE;
+	font-size: 12pt;
 }
 
 i.fa-briefcase {
@@ -48,9 +50,9 @@ i.fa {
 
 #wrapper {
 	background: #322D2D;
-	padding-top: 25px;
-	padding-bottom: 40px;
-	margin: 0px 40px 30px 40px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin: 50px 0px 30px 0px;
 	background: url('images/footer_lodyas.png');
 }
 
@@ -98,6 +100,11 @@ background: url('images/footer_lodyas.png');
 
 div.row.text-left h2 {
     color: #EEEEEE;
+}
+
+div.row.text-left p {
+    color: #EEEEEE;
+    font-size: 12pt;
 }
 
 div.col-md-4 {
