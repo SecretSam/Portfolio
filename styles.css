@@ -3,11 +3,19 @@ body {
 	background: url('images/footer_lodyas.png');
 }
 
+a {
+	color: #D8D59A;
+}
+
+a:hover {
+	color: #EEEEEE;
+}
+
 i.fa-briefcase {
 	transition: all 0.3s ease;
 }
 i.fa-briefcase:hover {
-	color: ##D8D59A;
+	color: #EEEEEE;
 	transform: scale(1.5); 
 	text-shadow: 1px 1px 3px #C2C2C2;
 }
@@ -16,7 +24,7 @@ i.fa-paint-brush {
 	transition: all 0.3s ease;
 }
 i.fa-paint-brush:hover {
-	color: ##D8D59A;
+	color: #EEEEEE;
 	transform: scale(1.5); 
 	text-shadow: 1px 1px 3px #C2C2C2;
 }
@@ -26,16 +34,16 @@ i.fa-video-camera {
 }
 
 i.fa-video-camera:hover {
-	color: ##D8D59A;
+	color: #EEEEEE;
 	transform: scale(1.5); 
 	text-shadow: 1px 1px 3px #C2C2C2;
 }
 
-/* Note that the hover colors above can be manipulated individually. But for now they are all ##D8D59A */
+/* Note that the hover colors above can be manipulated individually. But for now they are all #EEEEEE */
 
 i.fa {
 	padding-bottom: 10px;
-	color: #EEEEEE;
+	color: #D8D59A;
 }
 
 #wrapper {
