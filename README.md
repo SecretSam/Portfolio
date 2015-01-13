@@ -47,6 +47,12 @@
 
 >jesse.ruhland@gmail.com
 
+>**Josh Vallejo**
+
+>(720) 985-5392 
+
+>joshua.a.vallejo@gmail.com
+
 >**Aiko Cheslin**
 
 >(720) 432-2456
