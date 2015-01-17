@@ -63,4 +63,4 @@
 ###**[Download Resume](https://drive.google.com/file/d/0B-a0pDYxjDLCLVdFdUhUX0NXVzA/view?usp=sharing)**
 
 
-###[Porfolio](https://secretsam.github.io/Portfolio)
+###[Portfolio](https://secretsam.github.io/Portfolio)
