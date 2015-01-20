@@ -91,6 +91,10 @@ color: #D8D59A;
 color: #EEEEEE;
 }
 
+.navbar-nav>li>a:focus {
+color: #EEEEEE;
+}
+
 .navbar-default {
 background-color: #322D2D;
 border-color: #3A3434;
@@ -98,22 +102,6 @@ background: url('images/footer_lodyas.png');
 
 }
 
-div.row.text-left h2 {
-    color: #EEEEEE;
-}
-
-div.row.text-left p {
-    color: #EEEEEE;
-    font-size: 12pt;
-}
-
-div.col-md-4 {
-    color: #EEEEEE;
-    font-weight: bold;
-    font-size: 13pt;
-    font-family: Helvetica;
-}
-
-div.row.text-center h3 {
-    color: #EEEEEE;
+#MainContent {
+	color: #EEEEEE;
 }
