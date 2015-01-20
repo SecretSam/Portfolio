@@ -78,6 +78,15 @@ i.fa {
 	padding-bottom: 0px;
 	border-radius: 0px;
 }
+
+.navbar-header {
+	height: 70px;
+}
+
+.navbar-default .navbar-collapse {
+	border-color: none;
+}
+
 .navbar-nav > li {
 background-color: #343434;
 }
@@ -89,7 +98,6 @@ margin-bottom: 0px;
 .navbar-default .navbar-nav>li>a {
 color: #D8D59A;
 }
-
 
 
 .navbar-default .navbar-nav>li>a:hover {
