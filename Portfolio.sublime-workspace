@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"rendered"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"head",
+				"head	Tag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"i",
+				"images"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"in",
+				"input	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<html>\n<head>\n	<link href=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css\" rel=\"stylesheet\">\n	<link href=\"//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n	<link rel=\"stylesheet\" href=\"styles.css\">\n	<!-- Favicon code -->\n	<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"favicon/apple-touch-icon-57x57.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"favicon/apple-touch-icon-114x114.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"favicon/apple-touch-icon-72x72.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"favicon/apple-touch-icon-144x144.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"favicon/apple-touch-icon-60x60.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"favicon/apple-touch-icon-120x120.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"favicon/apple-touch-icon-76x76.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"favicon/apple-touch-icon-152x152.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"favicon/apple-touch-icon-180x180.png\">\n	<link rel=\"icon\" type=\"image/png\" href=\"favicon/favicon-192x192.png\" sizes=\"192x192\">\n	<link rel=\"icon\" type=\"image/png\" href=\"favicon/favicon-160x160.png\" sizes=\"160x160\">\n	<link rel=\"icon\" type=\"image/png\" href=\"favicon/favicon-96x96.png\" sizes=\"96x96\">\n	<link rel=\"icon\" type=\"image/png\" href=\"favicon/favicon-16x16.png\" sizes=\"16x16\">\n	<link rel=\"icon\" type=\"image/png\" href=\"favicon/favicon-32x32.png\" sizes=\"32x32\">\n	<meta name=\"msapplication-TileColor\" content=\"#737373\">\n	<meta name=\"msapplication-TileImage\" content=\"/mstile-144x144.png\">\n	<!-- End favicon code -->\n\n	<script>\n	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n	ga('create', 'UA-58170317-1', 'auto');\n	ga('send', 'pageview');\n\n	</script>\n	<title>Sam's Portfolio</title>\n</head>\n<body>\n	<nav class=\"navbar navbar-default\">\n		<div class=\"container-fluid\">\n			<div class=\"navbar-header\">\n				<a class=\"navbar-brand\" href=\"http://www.samanthascharrer.com/\">\n					<img alt=\"Brand\" src=\"./images/GeoBeeBrand.png\">\n				</a>\n			</div>\n			<ul class=\"nav navbar-nav\">\n				<li><a id=\"home\" href=\"#home\"><h3>Home</h3></a></li>\n				<li><a id=\"about\" href=\"#about\"><h3>About</h3></a></li>\n				<li><a id=\"skills\" href=\"#skills\"><h3>Skills</h3></a></li>\n				<li><a id=\"articles\" href=\"#articles\"><h3>Articles</h3></a></li>\n			</ul>\n		</div>\n	</nav>\n	<div class=\"jumbotron\">\n		<div class=\"container\">\n			<h1>Samantha Scharrer</h1>\n			<p>Front-end Developer</p>\n		</div>\n	</div>\n	<div id=\"wrapper\">\n		<div class=\"container\">\n			<div class=\"row text-center\">\n				<div id=\"MainContent\" class=\"col-md-12\">\n					<!-- h3+p>lorem*4  -->\n					<h3>HOME</h3>\n				</br>\n				<div class=\"col-md-4\"><i class=\"fa fa-briefcase fa-3x\"></i></br>Web Development</div>\n				<div class=\"col-md-4\"><i class=\"fa fa-paint-brush fa-3x\"></i></br>Graphic Design</div>\n				<div class=\"col-md-4\"><i class=\"fa fa-video-camera fa-3x\"></i></br>Video Production</div>\n				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum fugiat enim impedit, inventore. Atque maiores, commodi quasi odit praesentium ab fuga sed, incidunt maxime, eius consequuntur, quas perspiciatis cumque sunt.</p>\n				<p>Fugiat error quam, debitis expedita neque totam voluptatem quasi asperiores deleniti provident. Veniam explicabo iusto voluptatibus, quidem, fuga dolores odit quibusdam earum! Officia numquam fugit porro aliquid architecto, alias rerum?</p>\n				<p>Cum commodi ab magnam, praesentium accusamus et minus libero. Architecto consectetur quibusdam perferendis quis? Doloremque aspernatur vitae sunt libero impedit, minus voluptates iste aliquam culpa necessitatibus soluta dolore asperiores cumque.</p>\n				<p>Similique minus doloremque eius consectetur praesentium laboriosam odio deleniti asperiores, expedita molestiae. Illum repudiandae facilis quam obcaecati provident corporis, quas maxime accusamus aperiam modi totam sint consectetur, voluptatem eius fugit.</p>\n			</div>\n			<div class=\"col-md-12\">\n				<div class=\"well\">\n\n					<!-- Begin MailChimp Signup Form -->\n					<div id=\"mc_embed_signup\">\n						<form class=\"form-horizontal\" action=\"//github.us9.list-manage.com/subscribe/post?u=2f3eed1ebc451c9d4f740d111&amp;id=ac0875959a\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate>\n							<div id=\"mc_embed_signup_scroll\">\n								<h2>Subscribe to SecretSam Inc. Progress Reports</h2>\n								<div class=\"indicates-required\">\n									<span class=\"asterisk\">*</span> indicates required\n								</div>\n								<div class=\"form-group\">\n									<label for=\"mce-EMAIL\" class=\"col-sm-2 control-label\">Email<span class=\"asterisk\">*</span>\n									</label>\n									<div class=\"col-sm-10\">\n										<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"form-control\" id=\"mce-EMAIL\" placeholder=\"Email\">\n									</div>\n								</div>\n								<div class=\"form-group\">\n									<label for=\"mce-FNAME\" class=\"col-sm-2 control-label\" >First Name</label>\n									<div class=\"col-sm-10\">\n										<input type=\"text\" value=\"\" name=\"FNAME\" class=\"form-control\" id=\"mce-FNAME\" placeholder=\"FirstName\">\n									</div>\n								</div>\n								<div class=\"form-group\">\n									<label for=\"mce-LNAME\" class=\"col-sm-2 control-label\" >Last Name</label>\n									<div class=\"col-sm-10\">\n										<input type=\"text\" value=\"\" name=\"LNAME\" class=\"form-control\" id=\"mce-LNAME\" placeholder=\"LastName\">\n									</div>\n								</div>\n								<div id=\"mce-responses\" class=\"clear\">\n									<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n									<div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n								</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n								<div style=\"position: absolute; left: -5000px;\"><input type=\"text\" name=\"b_2f3eed1ebc451c9d4f740d111_ac0875959a\" tabindex=\"-1\" value=\"\">\n								</div>\n								<div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"btn btn-default\">\n								</div>\n							</div>\n						</form>\n					</div>\n				</div>\n				<!--End mc_embed_signup-->\n			</div>\n		</br>		\n	</div>\n</div>\n</div>\n<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"></script> <!-- jQuery script CDN-->\n<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js\"></script> <!-- Bootstrap js CDN -->\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 6752,
+			"file_write_time": 1421712551000000,
+			"settings":
+			{
+				"buffer_size": 6800,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 1055,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "skills.html",
+			"settings":
+			{
+				"buffer_size": 993,
+				"line_ending": "Unix",
+				"name": "skills.html"
+			}
+		},
+		{
+			"file": "articles.html",
+			"settings":
+			{
+				"buffer_size": 1036,
+				"line_ending": "Unix",
+				"name": "articles.html"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 1881,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"coffe",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"cofe",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"coff",
+				"Coffee: Compile File"
+			],
+			[
+				"pa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ss co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"pa in",
+				"Package Control: Install Package"
+			],
+			[
+				"ss htm	",
+				"Set Syntax: HTML"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"ssrub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syta htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/samanthascharrer/Documents/Projects/Slidey/slidey/client/deck/deck.js",
+		"/Users/samanthascharrer/Library/Application Support/Sublime Text 2/Packages/CoffeeCompile/CoffeeCompile.sublime-settings",
+		"/Users/samanthascharrer/Documents/Projects/Slidey/slidey/.meteor/packages",
+		"/Users/samanthascharrer/Documents/Projects/Portfolio/about.html",
+		"/Users/samanthascharrer/Documents/Projects/Portfolio/styles.css",
+		"/Users/samanthascharrer/Documents/Projects/Portfolio/index.html",
+		"/Users/samanthascharrer/Documents/Projects/Portfolio/CNAME",
+		"/Users/samanthascharrer/Documents/Design/HCE/css/style.css",
+		"/Users/samanthascharrer/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/samanthascharrer/Documents/Projects/StylebotForChannelAwesome/styles.css",
+		"/Applications/XAMPP/xamppfiles/lib/perl5/5.16.3/pods/perltoc.pod",
+		"/Users/samanthascharrer/Documents/Design/HorizonCulturalExchange/program-1.html",
+		"/Users/samanthascharrer/Documents/Design/HorizonCulturalExchange/js/skrollr.js",
+		"/Users/samanthascharrer/Downloads/HCE/css/style.css",
+		"/Users/samanthascharrer/Documents/Design/HCE/index.html",
+		"/Users/samanthascharrer/Downloads/HCE/index.html",
+		"/Users/samanthascharrer/Downloads/HCE copy",
+		"/Users/samanthascharrer/Documents/dev/index.html",
+		"/Users/samanthascharrer/Documents/dev/styles.css",
+		"/Users/samanthascharrer/Documents/dev/application.js",
+		"/Users/samanthascharrer/Documents/dev/main.js",
+		"/Users/samanthascharrer/Documents/School/Interactive Media/WelcometothePlotte/index.html",
+		"/Users/samanthascharrer/Documents/School/Interactive Media/WelcometothePlotte/index.php",
+		"/Users/samanthascharrer/Documents/testapp/testapp.js",
+		"/Users/samanthascharrer/Documents/testapp/.meteor/packages"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<!-- h3+p>lorem*4  -->\n<h3>ABOUT</h3>\n<p>\n<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic voluptates in nam veritatis accusamus sit nobis explicabo recusandae quibusdam labore temporibus distinctio praesentium expedita, et atque dolorem consequuntur molestiae ad!</span>\n<span>Corporis commodi architecto, ipsa? Aliquid ipsa deleniti, at officiis id fuga, perspiciatis autem nobis temporibus in debitis explicabo, necessitatibus non numquam excepturi assumenda. Odit facere fugit, itaque doloribus aperiam quam.</span>\n<span>Voluptates iusto voluptatum a molestiae unde corrupti, possimus excepturi deleniti cumque placeat dignissimos ipsum sed. Blanditiis perspiciatis aliquid nostrum a nesciunt itaque quae veritatis, repudiandae, aliquam quibusdam recusandae architecto dolorum.</span>\n<span>Ratione accusamus velit tempora nesciunt recusandae facere, pariatur consectetur praesentium debitis minus soluta adipisci architecto voluptates dicta possimus unde aliquid fugiat veniam necessitatibus saepe eius. Ad sunt, laudantium quas nobis.</span>\n</p>\n\n<div class=\"col-md-9 pull-left\"> 	\n<h2>About Me</h2>\n<p>Now, this is a story all about how</br>\nMy life got flipped-turned upside down</br>\nAnd I'd like to take a minute</br>\nJust sit right there</br>\nI'll tell you how I became the prince of a town called Bel Air</br>\n</br>\nIn west Philadelphia born and raised</br>\nOn the playground was where I spent most of my days</br>\nChillin' out maxin' relaxin' all cool</br>\nAnd all shootin some b-ball outside of the school</br>\nWhen a couple of guys who were up to no good</br>\nStarted making trouble in my neighborhood</br>\nI got in one little fight and my mom got scared</br>\nShe said 'You're movin' with your auntie and uncle in Bel Air'</br>\n</br>\nI whistled for a cab and when it came near</br>\nThe license plate said fresh and it had dice in the mirror</br>\nIf anything I could say that this cab was rare</br>\nBut I thought 'Nah, forget it' - 'Yo, homes to Bel Air'</br>\n</br>\nI pulled up to the house about 7 or 8</br>\nAnd I yelled to the cabbie 'Yo homes smell ya later'</br>\nI looked at my kingdom</br>\nI was finally there\nTo sit on my throne as the Prince of Bel Air</p>\n</div>\n\n<div class=\"col-md-4\"><i class=\"fa fa-briefcase fa-3x\"></i></br>Web Development</div>\n<div class=\"col-md-4\"><i class=\"fa fa-paint-brush fa-3x\"></i></br>Graphic Design</div>\n<div class=\"col-md-4\"><i class=\"fa fa-video-camera fa-3x\"></i></br>Video Production</div>",
+			"href=\"",
+			"=\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 6800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2597,
+								2597
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about.html",
+					"settings":
+					{
+						"buffer_size": 1055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "skills.html",
+					"settings":
+					{
+						"buffer_size": 993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"auto_name": "skills.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "articles.html",
+					"settings":
+					{
+						"buffer_size": 1036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1036,
+								1036
+							]
+						],
+						"settings":
+						{
+							"auto_name": "articles.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "styles.css",
+					"settings":
+					{
+						"buffer_size": 1881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}
