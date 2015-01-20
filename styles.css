@@ -104,7 +104,7 @@ color: #D8D59A;
 color: #EEEEEE;
 }
 
-.navbar-nav>li>a:focus {
+.navbar-default .navbar-nav>li>a:focus {
 color: #EEEEEE;
 }
 
