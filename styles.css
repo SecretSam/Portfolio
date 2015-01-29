@@ -118,3 +118,46 @@ background: url('images/footer_lodyas.png');
 #MainContent {
 	color: #EEEEEE;
 }
+
+.blurmenu {
+	padding: 0px;
+	margin: 0 0 10px 0;
+	position: relative;
+}
+
+.blurmenu li {
+	font-size: 50px;
+	display: block;
+}
+
+.blurmenu a{
+	color: transparent;
+	display: block;
+	text-transform: uppercase;
+	text-shadow: 0px 0px 5px #fff;
+	letter-spacing: 1px;
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.blurmenu: hover li a {
+	text-shadow: 0px 0px 5px #D8D59A;
+	}
+
+.blurmenu li a:hover {
+	color: #fff;
+	text-shadow: 0px 0px 1px #fff;
+	padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
