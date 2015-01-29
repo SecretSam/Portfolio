@@ -132,7 +132,7 @@ nav.navbar.navbar-default {
 }
 
 .blurmenu li a{
-	font-size: 19pt
+	font-size: 20pt
 }
 
 .blurmenu a{
@@ -164,7 +164,8 @@ nav.navbar.navbar-default {
 
 .blurmenu li a:focus {
 text-decoration: none;
-font-size: 25pt;
+font-size: 22pt;
+font-weight: bold;
 }
 
 
