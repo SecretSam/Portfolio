@@ -48,6 +48,10 @@ i.fa {
 	color: #EEEEEE;
 }
 
+.icons {
+	text-align: center;
+}
+
 #wrapper {
 	background: #322D2D;
 	padding-top: 50px;
@@ -118,6 +122,7 @@ nav.navbar.navbar-default {
 
 #MainContent {
 	color: #EEEEEE;
+	text-align: left;
 }
 
 .blurmenu {
