@@ -14,5 +14,8 @@ $( document ).ready(function() {
 	$("#articles").on("click", function () {
 		$( "#MainContent" ).load( "articles.html" );
 	});
+	$("#gallery").on("click", function () {
+		$( "#MainContent" ).load( "gallery.html" );
+	});
 });
 
